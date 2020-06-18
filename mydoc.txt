@@ -2,3 +2,4 @@ update 2
 update by func1
 update by  dev   second
 update by  func1   second
+update by  func1  3
